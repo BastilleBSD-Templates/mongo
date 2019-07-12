@@ -1,6 +1,7 @@
 # mongo
 Bastille Template for MongoDB Jail
 
+ STATUS: Testing
 
 you can add configuration details to /usr/local/etc/mongodb.conf to customize MongoDB.
 
